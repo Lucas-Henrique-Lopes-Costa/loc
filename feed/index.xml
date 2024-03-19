@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Locmidia | Assessoria Digital &#x1f1e7;&#x1f1f7;&#x1f1fa;&#x1f1f8;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>&#x1f3af;Acelere sua captação de clientes. &#x1f680;Marketing de Performance! &#x1f517;Funil de Vendas 2.0 &#x1f9d1;&#x1f3fb;&#x200d;&#x1f4bb;Automação de Atendimento.</description>
+	<lastBuildDate>Tue, 19 Mar 2024 02:21:58 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../wp-content/uploads/2024/01/chrome_VM99vevR5m-150x150.png</url>
+	<title>Locmidia | Assessoria Digital &#x1f1e7;&#x1f1f7;&#x1f1fa;&#x1f1f8;</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
